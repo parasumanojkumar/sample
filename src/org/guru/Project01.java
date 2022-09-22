@@ -26,7 +26,7 @@ public class Project01 {
 		
 		driver.close();
 		
-		
+		driver.quit();
 		
 		
 		
